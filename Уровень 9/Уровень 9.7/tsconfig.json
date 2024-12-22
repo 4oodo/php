@@ -1,0 +1,17 @@
+[
+  {
+    "catg": "catg1",
+    "name": "prod1",
+    "cost": "100"
+  },
+  {
+    "catg": "catg2",
+    "name": "prod2",
+    "cost": "200"
+  },
+  {
+    "catg": "catg3",
+    "name": "prod3",
+    "cost": "300"
+  }
+]

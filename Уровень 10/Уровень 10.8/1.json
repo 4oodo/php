@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "city": "city1",
+    "country": "country1"
+  },
+  {
+    "id": "2",
+    "city": "city2",
+    "country": "country1"
+  },
+  {
+    "id": "3",
+    "city": "city3",
+    "country": "country2"
+  }
+]
